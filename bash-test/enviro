@@ -1,0 +1,2 @@
+touch image.jpg voice.flac audio.mp3 _file_ some.log somepic.png
+rm -r Images Music
